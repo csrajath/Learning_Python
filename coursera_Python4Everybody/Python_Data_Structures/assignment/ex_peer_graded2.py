@@ -1,0 +1,1 @@
+print('Grade my assignment')
