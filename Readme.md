@@ -74,8 +74,10 @@
            *****************************************************************************************************
            The above code returns True as both variables hold same.
            ```
+
 # Basic Introduction
 ## Reserved Words
+
 1. There are around 33 of them. They can’t be used to name a variable. Reserved words have pre-defined or in-built functionality
 1. To read more about keywords/reserved words and the rules that they are bound by which makes/creates an identifier: click (here)[https://www.programiz.com/python-programming/keywords-identifier]
 
