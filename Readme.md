@@ -454,7 +454,7 @@ print(b.balance())
 ### *Intermediate Python*
 Follow PEP 8 while coding pythonic applications to maintain standard formats and styling. \
 Zen of python by Tim Peters is the best styling guide for interpreting python in practice.\
-The below command lists the 19 practices as mentioned by Tim Peters's Zen of Python 
+The  below command lists the 19 practices as mentioned by Tim Peters's Zen of Python 
 
 ```python
     import this
@@ -462,4 +462,22 @@ The below command lists the 19 practices as mentioned by Tim Peters's Zen of Pyt
 ##### String Operations
 1. 
 ##### ArgParse
+* It is an in-built python module used for building commands that are used on command line in the terminal for  interactions.
+* All those flags we usually see when someone does an installtion or configures anything on command line, is an argparse type build.
+* Example:
+``` docker run -p```\
+this *hyphen p* an argument flag, *run* is also an argument flag. These are all made functional using modules like argparse.
+* To view the example program for understanding argparse, refer [here](https://github.com/jarviscrypter/Learning_Python/blob/master/coursera_Python4Everybody/ref_problems/argparse1.py)
+###### STEPS
+* The very first step is to create a parser
+* next, include necessary arguments in the parser
+    * each argument that is added should contain a type and description.
+* parse the arguments
+
+* the arguments on CLI are basically of two types - 
+    * positional arguments
+    * optional arguments
+    *  the best practice is to use option arguments because with positional arguments one always needs to follow the position as coded whereas adding the flags makes it easier where one can input values in any order. 
+
+<!-- TODO my test todo item -->
 
