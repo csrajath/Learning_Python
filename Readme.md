@@ -1,3 +1,15 @@
+##### When I decided to brush up my python skills, there were bunch of online courses and books that came to my mind but the one's that truly stood were the below choice andthis whole repository is an explaination of my journey of learning pythong through these courses/books.
+1. Courses
+	1. [Python for Everybody](https://www.coursera.org/specializations/python)-Choose this by its seems to be famous among all. Worth a try.
+	1. [Programming, Data Structures And Algorithms Using Python Computer Science and Engineering](https://nptel.ac.in/courses/106106145/) - A must try for any python developer
+	1. [Python OOP : Four Pillars of OOP in Python 3 for Beginners](https://www.udemy.com/course/python-oops-beginners/)
+	2. ()[] - Optional*
+1. Books:
+    1. Elements of Programming Interviews in Python.
+1. External Resources:
+python morsel
+think python excercises
+python cookbook
 # General
 1. A python script is a text file storing lines of instructions writing according to python programming language and saved with the extension *.py*
 2. *’!’* is called as *‘bang’*
@@ -436,3 +448,18 @@ print(b.balance())
 3. Read the whole file and print the total count of characters. Also, print the first 10 characters of the file
 4. Open a file, if it is not present create it and print all lines that starts with 'In'. Also, ensure to eliminate blank lines. Also, demonstrate this using rstrip() function.
 5. Ask for the file name from user and open that file, if the user enters incorrect file name perform error handling. Print the total number of lines if the file name is correct.
+
+
+************************************************************
+### *Intermediate Python*
+Follow PEP 8 while coding pythonic applications to maintain standard formats and styling. \
+Zen of python by Tim Peters is the best styling guide for interpreting python in practice.\
+The below command lists the 19 practices as mentioned by Tim Peters's Zen of Python 
+
+```python
+    import this
+```
+##### String Operations
+1. 
+##### ArgParse
+
