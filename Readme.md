@@ -1,4 +1,4 @@
-##### When I decided to brush up my python skills, there were bunch of online courses and books that came to my mind but the one's that truly stood were the below choice andthis whole repository is an explaination of my journey of learning pythong through these courses/books.
+##### When I decided to brush up my python skills, there were bunch of online courses and books that came to my mind but the one's that truly stood out were the below choices and this whole repository is an explaination of my journey of learning python through these courses/books.
 1. Courses
 	1. [Python for Everybody](https://www.coursera.org/specializations/python)-Choose this by its seems to be famous among all. Worth a try.
 	1. [Programming, Data Structures And Algorithms Using Python Computer Science and Engineering](https://nptel.ac.in/courses/106106145/) - A must try for any python developer
