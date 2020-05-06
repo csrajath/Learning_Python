@@ -480,4 +480,7 @@ this *hyphen p* an argument flag, *run* is also an argument flag. These are all 
     *  the best practice is to use option arguments because with positional arguments one always needs to follow the position as coded whereas adding the flags makes it easier where one can input values in any order. 
 
 <!-- TODO my test todo item -->
-
+add list comprehension under list sections 
+##### Generators
+* Generators are python expressions 
+* At execution level, in comparison to List comprehension, Generators are slower. 
